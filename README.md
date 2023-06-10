@@ -1,1 +1,1 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/mohammedJr"><img src="https://api.daily.dev/devcards/b17006cef2c44f07b2a42eeee715348d.png?r=yrn" width="400" alt="mohammed hammad's Dev Card"/></a>
